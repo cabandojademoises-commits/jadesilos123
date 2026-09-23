@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+h3{
+    color: red;
+}
+.class{
+    color: black;
+}
+#id{
+    color: green;
+}
+h3[attribute="blue"]{
+    color: blue;
+}

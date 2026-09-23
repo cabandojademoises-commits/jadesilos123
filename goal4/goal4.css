@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(15, 102, 102);
+    color: white;
+}
+p[value=bluet]{
+color: red;
+}
+p[value=ten]{
+    font-size: 43px;
+}
+p[value=aton]{
+    font-weight: 600;
+    font-size: 15px;
+}
+p[value=ariel]{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p[value=text]{
+    text-align: right;
+}

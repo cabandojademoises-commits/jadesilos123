@@ -1,0 +1,49 @@
+body{
+
+    background-color: white;
+    padding: 0;
+    flex-direction: row;
+    
+}
+h1{
+    color: black;
+    font-size: 50px;
+}
+p{
+    color: white;
+    margin: 0;
+    font-size: 25px;
+    
+}
+.head{
+    display: flex;
+    
+    flex-direction: row;
+}
+.shoulder{
+    
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    justify-content: flex-start;
+    display: flex;
+    padding: 0;
+}
+.hips{
+background-color: green;
+    height: 300px;
+    width: 300px;
+    justify-content: flex-start;
+    display: flex;
+    padding: 0;
+    margin-left: 10px;
+}
+.toes{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    justify-content: flex-start;
+    display: flex;
+    padding: 0;
+    margin-left: 10px;
+}

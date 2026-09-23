@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+    
+    
+    
+}
+.head{
+    background-color: #9006ac;
+    margin: 20px;
+    padding: 10px;
+}
+.tail{
+    background-color: #262080;
+    padding: 20px;
+    margin: 20px;
+}
+p{
+    font-size: 40px;
+    margin: 0;
+}
+p[value=yelo]{
+color: yellow;
+
+}
+p[
+value=puti
+]{
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+p[value=yelo2]{
+color: yellow;
+
+}
+p[
+value=puti2
+]{
+    background-color: red;
+    color: white;
+    padding: 20px;
+}

@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+h1, h2{
+    color: blueviolet;
+}
+p.done{
+    color: red;
+}
+ul li{
+    color: blue;
+}
+ul li.done{
+    color: green;
+}
+ul p.done{
+    font-size: 10px;
+    color: #000;
+}
